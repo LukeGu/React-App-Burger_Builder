@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Model.css";
-import Aux from "../../../hoc/Aux";
+import Aux from "../../../hoc/Auxiliary";
 import Backdrop from "../Backdrop/Backdrop";
 
 const model = props => (
